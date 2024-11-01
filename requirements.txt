@@ -1,0 +1,3 @@
+before you play :
+	 pip install time
+	 pip install random
